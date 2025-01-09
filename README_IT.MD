@@ -4,7 +4,7 @@ Sono molti coloro che mi conoscono e sanno quanto sia stato un fervente sostenit
 
 [Sito internet di Cheshire Cat AI](https://cheshirecat.ai/)
 
-![enter image description here](https://cheshirecat.ai/wp-content/uploads/2023/10/Logo-Cheshire-Cat.svg)
+![Cheshire Cat AI Logo](https://cheshirecat.ai/wp-content/uploads/2023/10/Logo-Cheshire-Cat.svg)
 
 Tuttavia, nonostante la solidità e il supporto della comunità, anche i progetti più raffinati possono incontrare ostacoli, specialmente quando si tratta di scalabilità aziendale e di sicurezza nel cloud. Queste sono sfide reali che richiedono soluzioni pratiche per garantire che il nostro lavoro possa prosperare e adattarsi ai rigori dell'ambiente aziendale moderno.
 
@@ -15,3 +15,5 @@ Per affrontare queste criticità, ho sviluppato una serie di script progettati p
 Auguro a tutti un buon lavoro e un'esperienza costruttiva nell'implementazione di queste soluzioni.
 
 ## Descrizione dell'Architettura
+
+![Architecture](img/Diagramma CCAI .drwaio.png)
