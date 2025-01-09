@@ -8,6 +8,15 @@ Prima operazione è quella di creare un Resource Group con il solo scopo di sepa
 
 ![Create RG](../img/rg01.png)
 
+Adesso creaimo la nostra Virtual Network.
+
+![Create vn1](../img/vnet01.png)
+
+![Create vn1](../img/vnet02.png)
+
+![Create vn1](../img/vnet03.png)
+
+
 ## Creiamo Open AI
 
 ## Creaimo lo Storage Account
