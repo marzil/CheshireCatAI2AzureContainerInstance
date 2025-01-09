@@ -1,13 +1,12 @@
 # Cheshire Cat AI and Integration with Azure Container Instance
+Many people know me and are aware of my strong support for Piero Savastano. This is not only because I firmly believe in his project, but also because I consider it a prime example of excellence in the tech sector, designed with great care and expertise.
 
-Many people know me and know that I am a supporter of Piero Savastano, mainly because I believe in the project, which seems to be very well done.
+However, even the most well-crafted projects can encounter challenges, particularly when it comes to enterprise scalability and cloud security. These are real obstacles that require practical solutions to ensure our work can thrive and adapt to the demands of the modern business environment.
 
-Despite this, the project, although well-developed and well-supported by the community, suffers from problems that limit its enterprise use or at least a more secure cloud usage.
+To address these issues, I have developed a series of scripts aimed at enhancing infrastructure security. The goal is to make installing Docker containers on Azure not only accessible but also more secure, even for beginners. These tools enable you to seamlessly integrate your containers into a robust and secure Azure infrastructure.
 
-To make the infrastructure more secure, I decided to implement these scripts that can also help a novice install the Docker container within a more secure Azure infrastructure.
+It is important to note that this process is not without its difficulties, especially considering that Azure and Microsoft do not provide direct assistance in this area, except through highly customized scripts. However, you will find all the necessary resources in this repository. Your collaboration is vital, and I am more than open to receiving suggestions for further improving procedures and the overall architecture.
 
-The operation is not simple, as Azure and Microsoft do not assist us in this, except through some customized scripts that you will find in this repository. Therefore, if you have any suggestions to improve the procedure or architecture, I am open to any advice or assistance.
-
-From here, happy working.
+I wish everyone good luck and a constructive experience in implementing these solutions.
 
 ## Architecture Description
