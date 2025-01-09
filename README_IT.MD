@@ -2,7 +2,7 @@
 
 Molti mi conoscono e sanno che sono un supporter di Piero Savastano anche perche' credo nel progetto che mi sembra fatto molto bene.
 
-Nonostante questo il progetto anche se ben realizzato e ben supportato dalla comunity risente di problemi che ne limitano l'utilizzo aziendale o quantomeno un utilizzo in cloud pi' sicuro.
+Nonostante questo il progetto anche se ben realizzato e ben supportato dalla comunity risente di problemi che ne limitano l'utilizzo aziendale o quantomeno un utilizzo in cloud più sicuro.
 
 Per rendere l'infrastruttura più sicuro ho decison di implementare questi script che possono aiutare anche un neaofita a installare il container Docker all'interno di una infrastruttua di Azure più sicura. 
 
