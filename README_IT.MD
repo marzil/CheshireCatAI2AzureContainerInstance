@@ -16,4 +16,4 @@ Auguro a tutti un buon lavoro e un'esperienza costruttiva nell'implementazione d
 
 ## Descrizione dell'Architettura
 
-![Architecture](img/Diagramma CCAI .drwaio.png)
+![Architecture](img/ArchitectureDiagram.png)
