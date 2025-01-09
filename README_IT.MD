@@ -17,3 +17,11 @@ Auguro a tutti un buon lavoro e un'esperienza costruttiva nell'implementazione d
 ## Descrizione dell'Architettura
 
 ![Architecture](img/ArchitectureDiagram.png)
+
+L'obiettivo del progetto è garantire un ambiente sicuro e controllato per l'interazione tra i servizi AI e le risorse aziendali. In particolare, desideriamo esporre le API del servizio Microsoft OpenAI esclusivamente all'interno della rete virtuale (VNet) di Azure, garantendo che il container Docker di Cheshire Cat AI operi solo all'interno di questa stessa VNet. Questo approccio assicura che le comunicazioni siano protette da accessi indesiderati, limitando le interazioni ai confini definiti della rete virtuale.
+
+La macchina virtuale attualmente in uso funge da dimostrazione pratica, dimostrando che il sistema è accessibile solo internamente alla rete. Tuttavia, in una fase successiva, questa configurazione può essere ulteriormente ottimizzata. La macchina virtuale potrebbe essere rimossa a favore di una segmentazione della VNet, collegandola tramite una VPN dedicata per una connessione sicura con altre reti. In alternativa, si potrebbe sviluppare un Gateway tramite una WebApp, permettendo al sistema di comunicare in modo sicuro verso l'esterno.
+
+Inoltre, per chi desidera un livello ancora più sofisticato di gestione e sicurezza delle API, esiste l'opzione di integrare Azure API Management. Questo servizio altamente affidabile permette non solo di orchestrare e proteggere le API, ma anche di monitorarle e scalarle in modo efficiente. Utilizzando Azure API Management, è possibile costruire un'architettura che non solo assicura sicurezza e prestazioni, ma che offre anche un controllo dettagliato sulle modalità di accesso e utilizzo delle API.
+
+In sintesi, il nostro approccio flessibile e lungimirante offre una struttura che può evolvere in funzione delle esigenze future, garantendo sempre il massimo livello di sicurezza e operatività.
