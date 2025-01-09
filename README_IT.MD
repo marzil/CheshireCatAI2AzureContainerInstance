@@ -1,6 +1,11 @@
 # Cheshire Cat AI e l'Integrazione con Azure Container Instance
 Sono molti coloro che mi conoscono e sanno quanto sia stato un fervente sostenitore di Piero Savastano. Questo non è solo perché credo fermamente nel suo progetto, ma perché lo ritengo un esempio di eccellenza nel settore tecnologico, progettato con grande cura e competenza.
 
+
+[Sito internet di Cheshire Cat AI](https://cheshirecat.ai/)
+
+![enter image description here](https://cheshirecat.ai/wp-content/uploads/2023/10/Logo-Cheshire-Cat.svg)
+
 Tuttavia, nonostante la solidità e il supporto della comunità, anche i progetti più raffinati possono incontrare ostacoli, specialmente quando si tratta di scalabilità aziendale e di sicurezza nel cloud. Queste sono sfide reali che richiedono soluzioni pratiche per garantire che il nostro lavoro possa prosperare e adattarsi ai rigori dell'ambiente aziendale moderno.
 
 Per affrontare queste criticità, ho sviluppato una serie di script progettati per migliorare la sicurezza dell'infrastruttura. L'obiettivo è di rendere l'installazione di container Docker su Azure non solo accessibile, ma anche più sicura, anche per chi è alle prime armi. Questi strumenti permettono di inserire agevolmente i propri container all'interno di un'infrastruttura Azure robusta e sicura.
