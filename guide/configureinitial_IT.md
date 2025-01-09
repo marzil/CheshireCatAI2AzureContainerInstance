@@ -4,6 +4,10 @@ Ovviamente per poter iniziare dobbiamo avere un tenat di Azure con del credito a
 
 ## Creiamo il Virtual Network
 
+Prima operazione è quella di creare un Resource Group con il solo scopo di separare le risorse
+
+![Create RG](img/rg01.png)
+
 ## Creiamo Open AI
 
 ## Creaimo lo Storage Account
