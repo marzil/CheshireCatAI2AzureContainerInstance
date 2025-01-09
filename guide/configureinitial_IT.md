@@ -6,7 +6,7 @@ Ovviamente per poter iniziare dobbiamo avere un tenat di Azure con del credito a
 
 Prima operazione è quella di creare un Resource Group con il solo scopo di separare le risorse
 
-![Create RG](img/rg01.png)
+![Create RG](../img/rg01.png)
 
 ## Creiamo Open AI
 
