@@ -15,6 +15,7 @@ I wish everyone good luck and a constructive experience in implementing these so
 
 ## Architecture Description
 
+![Architecture](img/ArchitectureDiagram.png)
 
 The goal of this project is to ensure a secure and controlled environment for interactions between AI services and enterprise resources. Specifically, we aim to expose the APIs of the Microsoft OpenAI service solely within the Azure Virtual Network (VNet), ensuring that the Docker container for Cheshire Cat AI operates exclusively within the same VNet. This approach guarantees that communications are protected from unauthorized access, restricting interactions to the defined boundaries of the virtual network.
 
