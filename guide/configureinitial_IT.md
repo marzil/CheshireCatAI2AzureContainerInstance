@@ -14,19 +14,37 @@ Adesso creaimo la nostra Virtual Network.
 
 Adesso scegliete il nome piu' adatto alla vostra vnet. Nel mio caso ho inserito vnetccaileonardo, ma voi sceglietene uno vostro.
 
-![Create vn1](../img/vnet02.png)
+![Choose name](../img/vnet02.png)
 
 Infine scegliete la classe di indirizzi IP per agganciarvi. Mi raccomendo non scegliete una classe di IP in overlap con la vostra rete interna perchè nel caso deideriate agganciarvi tramite una VPN questo non permetterà di connettervi.
 
-![Create vn1](../img/vnet03.png)
+![Choose IP Address](../img/vnet03.png)
 
 Adesso abilitate gli enpoint della vnet per lo storage account e gli altri servizi indispensabili.
 
-![Create vn1](../img/vnet04.png)
+![Enable endpoint](../img/vnet04.png)
 
 Forse ne ho messo qualcuno in piu' del necessario, ma con calma potrete ridurli al necessario.
 
 ## Creiamo Open AI
+
+Per or abbiamo creato OpenAI in francia perchè è li che abbiamo creato anche la vnet e desidero che il servizio di open ai non sia accessibile da qualsiasi parte ma solo dalle risorse all'interno della mia vnet.
+
+Per cui selezioniamo il servizio Open AI
+
+![Choose service](../img/OpenAI01.png)
+
+A questo punto inseriamo il resource group corretto ed il nome per il nostro servizio.
+
+![Define service](../img/OpenAI02.png)
+
+Poi selezioniamo come accesso la Vnet corretta
+
+![Define service](../img/OpenAI03.png)
+
+Ed infine creiamo una distribuzione del nostro modello che poi ci servirà per configurare Cheshire Cat AI
+
+![Define service](../img/OpenAI04.png)
 
 ## Creaimo lo Storage Account
 
