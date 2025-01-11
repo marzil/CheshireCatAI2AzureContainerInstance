@@ -46,7 +46,7 @@ Infine, impostate la distribuzione del vostro modello AI, un passo cruciale per 
 
 Non dimenticate di prendere nota delle chiavi necessarie per l’integrazione:
 
-![Get Keys](../img/OpenAI05.png)
+![Get Keys](../img/OpenAI05.png) 
 
 ## Creaimo lo Storage Account
 
