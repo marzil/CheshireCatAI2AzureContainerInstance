@@ -52,3 +52,16 @@ Ed infine recuperiamo le chiavi per utilizzarle in Cheshire Cat AI
 
 ## Creaimo lo Storage Account
 
+Ed ora finalmente poteremo lavorare per creare i volumi che ospiteranno i dischi di Docker. Cheshire cat ne utilizza 3 con scopi diversi e questo spazio ci servità per lavorare sui nostri ambienti
+
+![Choose service](../img/storage01.png)
+
+Dopo aver selezionato il servizio scegliete voi che tipo di ridondanza desiderate.
+
+![Basic Configuration](../img/storage02.png)
+
+Ed ora la rete, in modo tale che questo sia accessibile solo all'interno della vnet che abbiamo precedentemente creato.
+
+![Storage vnet selection](../img/storage03.png)
+
+Ed ora per verificare create pure una macchina virtuale all'interno della rete per vedere che a queste risorse potete accedere solo dall'interno della rete stessa.
