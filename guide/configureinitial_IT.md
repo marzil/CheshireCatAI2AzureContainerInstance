@@ -46,5 +46,9 @@ Ed infine creiamo una distribuzione del nostro modello che poi ci servirà per c
 
 ![Define service](../img/OpenAI04.png)
 
+Ed infine recuperiamo le chiavi per utilizzarle in Cheshire Cat AI
+
+![Get Keys](../img/OpenAI05.png)
+
 ## Creaimo lo Storage Account
 
